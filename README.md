@@ -1,3 +1,3 @@
 # karthik-demo
-A git repository
+A git repository.
 Author - Karthik
