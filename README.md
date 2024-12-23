@@ -1,4 +1,4 @@
 # karthik-demo
-A git repository.
+This is a git repository.
 <br>
 Author - Karthik
